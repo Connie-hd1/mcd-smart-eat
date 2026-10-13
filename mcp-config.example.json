@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "mcd-mcp": {
-      "url": "https://open.mcd.cn/mcp/sse",
+      "url": "https://mcp.mcd.cn",
       "headers": {
         "Authorization": "Bearer ${MCD_MCP_TOKEN}"
       }
