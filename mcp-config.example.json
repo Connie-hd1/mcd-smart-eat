@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mcd-mcp": {
+      "url": "https://open.mcd.cn/mcp/sse",
+      "headers": {
+        "Authorization": "Bearer ${MCD_MCP_TOKEN}"
+      }
+    }
+  }
+}
