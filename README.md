@@ -16,12 +16,12 @@
 - 🍟 **口味与场景匹配**：不辣、想吃肉、想吃鸡块、还是只想随便吃点，它都能听懂。
 
 ## 🚀 如何使用
-[capture_20261013201126346.bmp](https://github.com/user-attachments/files/33385993/capture_20261013201126346.bmp)
-[capture_20261013201149621.bmp](https://github.com/user-attachments/files/33386040/capture_20261013201149621.bmp)
-[capture_20261013201211819.bmp](https://github.com/user-attachments/files/33386046/capture_20261013201211819.bmp)
-[capture_20261013201608262.bmp](https://github.com/user-attachments/files/33386053/capture_20261013201608262.bmp)
-[capture_20261013201628691.bmp](https://github.com/user-attachments/files/33386057/capture_20261013201628691.bmp)
-[capture_20261013201853988.bmp](https://github.com/user-attachments/files/33386061/capture_20261013201853988.bmp)
+<img width="701" height="574" alt="1" src="https://github.com/user-attachments/assets/58b70d7d-c290-4483-99bc-0a68446768f3" />
+<img width="691" height="598" alt="2" src="https://github.com/user-attachments/assets/8e070ea9-e4a9-4558-a61c-6c8a415d49e0" />
+<img width="718" height="582" alt="3" src="https://github.com/user-attachments/assets/536ef803-634f-4337-ac88-58ffcf206ca1" />
+<img width="683" height="578" alt="4" src="https://github.com/user-attachments/assets/28d83a21-f60a-44e1-8c9b-4067afc777fc" />
+<img width="706" height="533" alt="5" src="https://github.com/user-attachments/assets/34b06653-b2fe-437e-8c42-d576df3cc3b0" />
+<img width="696" height="510" alt="6" src="https://github.com/user-attachments/assets/0574cfea-e02c-43d6-a12d-3e947a0ee1b1" />
 
 1. 配置麦当劳 MCP Token
 2. 输入预算和口味需求
