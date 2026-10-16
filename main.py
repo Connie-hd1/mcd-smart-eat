@@ -253,10 +253,14 @@ async def main():
                 print("   ✅ 一人吃：%s" % ("满足" if PERSONS == 1 else f"按{PERSONS}人计"))
                 print("   ✅ 主食+饮料：满足")
                 print()
-                print("   💡 省钱对比：单点「%s + %s」要 %s，" %
-                      (combo["staple_name"], combo["drink_name"], yuan(single_cents)))
-                print("      用「%s」只花 %s，" % (combo["name"], yuan(combo_cents)))
-                print("      省了 %s（约 %.0f%% off）" % (yuan(saved), saved_pct))
+                if single_cents == 0:
+                    # 单品无法单独定价（套餐专属配置），不显示省钱对比，改给提示
+                    print("   💡 提示：此组合为套餐专属配置，单品无法单独定价，套餐价已是最优解。")
+                else:
+                    print("   💡 省钱对比：单点「%s + %s」要 %s，" %
+                          (combo["staple_name"], combo["drink_name"], yuan(single_cents)))
+                    print("      用「%s」只花 %s，" % (combo["name"], yuan(combo_cents)))
+                    print("      省了 %s（约 %.0f%% off）" % (yuan(saved), saved_pct))
                 print("   🎫 优惠券：%s" % coupon_note)
                 print()
                 print("   到点单时直接点「%s」，选 %s + %s 即可。" %
