@@ -23,9 +23,14 @@
 <img width="706" height="533" alt="5" src="https://github.com/user-attachments/assets/34b06653-b2fe-437e-8c42-d576df3cc3b0" />
 <img width="696" height="510" alt="6" src="https://github.com/user-attachments/assets/0574cfea-e02c-43d6-a12d-3e947a0ee1b1" />
 
-1. 配置麦当劳 MCP Token
-2. 输入预算和口味需求
-3. 得到最佳点餐方案
+### 方式一：WorkBuddy 直接体验（推荐）
+配置好 MCP 连接器后，直接发送指令：
+> 预算20元，不吃辣，一个人吃，想要有主食有饮料，直接告诉我吃啥。
+
+### 方式二：本地 Python 运行
+1. 安装依赖：
+   ```bash
+   pip install -r requirements.txt
 
 ## 🛠️ 技术实现
 - **开发工具**：WorkBuddy
