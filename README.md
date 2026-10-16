@@ -31,6 +31,13 @@
 1. 安装依赖：
    ```bash
    pip install -r requirements.txt
+2. 设置环境变量（Windows 用 set，Mac/Linux 用 export）：
+   ```bash
+   set MCD_MCP_TOKEN=你的麦当劳MCP_Token
+3. 运行脚本：
+   ```bash
+   python main.py
+4. 终端将自动输出最省钱的推荐组合和省钱金额。
 
 ## 🛠️ 技术实现
 - **开发工具**：WorkBuddy
